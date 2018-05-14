@@ -50,7 +50,7 @@ pooldir = parentdir(fullmodelpath);
 top_model = backwards_compatible(model);
 top_layer = model.layer;
 % Save the size of the top layer (for one training sample)
-top_size = size(z(:,:,:,1));
+top_size = size(z0(:,:,:,1));
 
 
 % Save the epochs of the layers below.
