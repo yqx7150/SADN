@@ -1,5 +1,4 @@
-# SADN
-SADN (Synthesis-analysis deconvolutional network for compressed sensing)
+# SADN (Synthesis-analysis deconvolutional network for compressed sensing)
 %% The Code is created based on the method described in the following papers: 
 % Q. Liu, H. Leung, "Synthesis-analysis deconvolutional network for compressed sensing," Image Processing (ICIP), 2017 IEEE International Conference on. IEEE, 2017: 1940-1944.
 % Author: Q. Liu, H. Leung
